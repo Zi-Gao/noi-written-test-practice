@@ -1,6 +1,6 @@
 # NOI 2025 在线背笔试（~~被鄙视~~）
 
-目前部署在 [这里](https://zi-gao.github.io/noi-written-test-practice/#/)。
+目前部署在 [这里](https://noi2025.zigao.ac/#/)。
 
 [题库内容](./data) 版权归 CCF 所有，其他部分遵循 MIT 许可证。
 

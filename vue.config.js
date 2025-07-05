@@ -6,7 +6,7 @@ process.env.VUE_APP_BUILD_TIME = (new Date()).toString()
  * @type {import('@vue/cli-service').ProjectOptions}
  */
 module.exports = {
-  publicPath: '/noi-written-test-practice/', // 部署到博客上
+  publicPath: '/', // 部署到github pages
   chainWebpack: config => {
     config.module
       .rule('yaml')

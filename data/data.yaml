@@ -47,14 +47,14 @@
   A: 2
 - Q:
     - 当前目录中有如下文件：
-    - '-rw-r--r-- 1 user None 8.7K Jul 2 16:35 foobar'
+    - '-rw-r--r-- 1 user None 8.7K Jul 2 16:35 foobar.sh'
     - '-rw-r--r-- 1 user None 93 Jul 2 16:35 foobar.c++'
-    - '-rwx------ 1 user None 144 Jul 2 16:35 foobar.sh'
+    - '-rwx------ 1 user None 144 Jul 2 16:35 foobar.exe'
     - 其中， 可以执行的文件是：
   C: 
-    - foobar
-    - foobar.c++
     - foobar.sh
+    - foobar.c++
+    - foobar.exe
   A: 2
 - Q: NOI 系列赛中对程序源文件大小的默认限制是：
   C:
